@@ -1,2 +1,0 @@
-# vvitlabs
-Lab programs
